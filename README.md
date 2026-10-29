@@ -29,7 +29,9 @@
 
 | 🗂️ Project | 🔧 Tools | 🏷️ Type |
 | :--- | :--- | :--- |
-| 🧨 [End-to-End Data Analytics Project ](https://github.com/srisuceelan/Data-analyst-project-end-to-end) | Python, SQL, Power BI | Client Project |
+| 🥇 [E-Commerce-Data-analysis](https://github.com/srisuceelan/E---Commerce-Data-analysis) | Python, Power BI | Dashboard|
+| 🥤 [Cafe-business-performance-Analysis](https://github.com/srisuceelan/Cafe-business-performance-Analysis) | Python, SQL, Power BI |Dashboard|
+| 🧨 [End-to-End Data Analytics Project ](https://github.com/srisuceelan/Data-analyst-project-end-to-end) | Python, SQL, Power BI |Dashboard|
 | 🛒 [Finance Intelligence Dashboard ](https://github.com/srisuceelan/Finance-Intelligence-Dashboard---Data-Analyst-Project) | Power BI, DAX | Dashboard |
 
 
